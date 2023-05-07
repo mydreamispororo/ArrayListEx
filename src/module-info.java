@@ -5,5 +5,5 @@
  * @author ITPS
  *
  */
-module ArrayListEx01 {
+module ArrayList02 {
 }
